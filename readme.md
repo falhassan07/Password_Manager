@@ -37,5 +37,4 @@ This project is a simple and secure Password Manager built with Python and the T
 
 ## Future Enhancements
 1. Add encryption for the stored passwords.
-2. Include a search functionality to retrieve saved credentials easily.
-3. Implement database storage for improved data management.
+2. Implement database storage for improved data management.
